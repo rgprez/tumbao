@@ -22,8 +22,8 @@ const Contact = () => {
         stagger: 0.2,
       })
       .from("#contact h3", { opacity: 0, yPercent: 100, stagger: 0.2 })
-      .to("#f-right-leaft", { y: -50, duration: 1, ease: "power1.inOut" })
-      .to("#f-left-leaf", { y: -50, duration: 1, ease: "power1.inOut" }, "<");
+      .to("#f-right-leaf", { y: -50, duration: 1, ease: "power1.inOut" })
+      .to("#f-left-leaf", { y: 50, duration: 1, ease: "power1.inOut" }, "<");
   });
   return (
     <footer id="contact">
