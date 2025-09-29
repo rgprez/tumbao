@@ -1,74 +1,83 @@
-# Tumbao Cocktails
+# Tumbao Cocktails – Digital Mixology Experience
 
-Experience the Art of Mixology: A Digital Showcase of Exquisite Cocktails and Unforgettable Moments.
+An immersive, front-end portfolio project that reimagines the art of cocktails in a modern, animated web application. Built to demonstrate advanced **UI/UX design, responsive layouts, and motion-driven interactions** with React, TypeScript, Tailwind CSS, and GSAP.
 
-## Live Demo / Screenshots
+---
 
-[Link to Live Demo](YOUR_LIVE_DEMO_URL_HERE)
+## 🚀 Live Demo
 
-![Hero Section](public/readme/hero.png)
-![Cocktail Menu](public/readme/jsmpro.png)
+- **Website:** [tumbaobar.vercel.app](https://tumbaobar.vercel.app/)
+- **Source Code:** [GitHub Repository](https://github.com/rgprez/tumbao)
 
-## Project Description
+---
 
-Tumbao Cocktails is a modern and engaging web application designed to showcase a premium cocktail bar. It provides an immersive experience for users to explore a curated selection of cocktails, learn about the bar's philosophy, view artistic presentations, and easily find contact information and opening hours. The application emphasizes elegant design and smooth user interactions, reflecting the sophistication of the cocktails it presents.
+## 🎯 Project Overview
 
-## Features
+Tumbao Cocktails is a concept project designed as a **digital showcase for a premium cocktail bar**. It demonstrates how thoughtful UI, animations, and responsive design can elevate a brand’s online presence. While not tied to a real venue, it reflects real-world front-end development skills relevant for **agencies, startups, and creative digital products**.
 
-- **Interactive Cocktail Menu:** Browse through a diverse range of cocktails with detailed descriptions and captivating visuals.
-- **Dynamic Content Sections:** Explore dedicated sections for the bar's story (`About`), artistic cocktail presentations (`Art`), and a comprehensive menu (`Menu`).
-- **Contact & Location Information:** Easily access the bar's address, contact details, opening hours, and social media links.
-- **Smooth Animations with GSAP:** Enhanced user experience through elegant scroll-triggered animations and transitions.
-- **Responsive Navigation:** A user-friendly navigation bar that adapts to various screen sizes.
-- **Modern UI with Tailwind CSS:** A clean, responsive, and visually appealing interface built with utility-first CSS.
+---
 
-## Technologies Used
+## ✨ Key Features
+
+- **Interactive Cocktail Menu:** Explore a curated selection of cocktails with vibrant visuals and engaging layout.
+- **Dynamic Sections:** Dedicated pages for `About`, `Menu`, and artistic `Presentations`.
+- **GSAP Animations:** Smooth scroll-triggered transitions and text animations for an elevated user experience.
+- **Responsive Design:** Fully optimized for desktop, tablet, and mobile screens.
+- **Modern UI Components:** Utility-first styling with Tailwind CSS for speed and maintainability.
+
+---
+
+## 🛠️ Technology Stack
 
 - **Frontend:** React, TypeScript, Vite
 - **Styling:** Tailwind CSS
-- **Animation:** GSAP (GreenSock Animation Platform), including ScrollTrigger and SplitText plugins
-- **Other Libraries/Tools:** ESLint
+- **Animations:** GSAP (ScrollTrigger, SplitText)
+- **Tooling:** ESLint, npm
 
-## Installation and Setup
+---
 
-To get a local copy up and running, follow these simple steps.
+## 🧑‍💻 Getting Started
 
 ### Prerequisites
 
-- Node.js (v18 or higher)
+- Node.js (v18+)
 - npm or Yarn
 
 ### Installation
 
-1.  Clone the repo:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-2.  Navigate to the project directory:
-    ```bash
-    cd your-repo-name
-    ```
-3.  Install NPM packages:
-    ```bash
-    npm install
-    # or yarn install
-    ```
+```bash
+git clone https://github.com/rgprez/tumbao.git
+cd tumbao
+npm install
+```
 
-### Running the Project
+### Run Development Server
 
 ```bash
 npm run dev
-# or yarn dev
 ```
 
-This will start the development server, usually accessible at `http://localhost:5173`.
+Visit `http://localhost:5173` in your browser.
 
-## Usage
+---
 
-Once the application is running, navigate through the different sections using the top navigation bar. Explore the `Menu` to see various cocktails, visit the `About` section to learn more about the bar, and use the `Contact` section for location and inquiries. The interactive elements and animations will guide you through the experience.
+## 🔗 Portfolio Context
 
-## Contact
+This project was created as a **practice piece** to demonstrate front-end development, UI/UX, and animation skills. It is not a commercial product but a showcase of capabilities for recruiters, hiring managers, and collaborators.
 
-Your Name - [Your Email](mailto:your.email@example.com) - [Your LinkedIn](https://linkedin.com/in/yourprofile)
+---
 
-Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+## 👤 Author
+
+**Ramón G. Pérez**
+
+- [LinkedIn](https://www.linkedin.com/in/ramongperez/)
+- [Portfolio Projects](https://github.com/rgprez)
+
+---
+
+## 🥂 Closing Note
+
+Tumbao Cocktails is a creative exercise in blending **design, interaction, and development**. It highlights my ability to bring static concepts to life with modern technologies.
+
+---
